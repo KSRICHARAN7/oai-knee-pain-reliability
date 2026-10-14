@@ -1,0 +1,8 @@
+Analysis,Knees,Participants,Effect estimate,95% CI,Technical note
+S1 KL>=2 restriction,3561,2332,0.204,0.167 to 0.241,p<0.001
+S2 signed discordance asymmetry,8232,4146,Positive 0.284; low-pain magnitude -0.110,Positive 0.259 to 0.310; low-pain -0.153 to -0.066,Wald p<0.001 for slope difference
+S3 48-month WOMAC change outcome,8232,4146,0.329,0.298 to 0.361,p<0.001
+S4 covariate-adjusted discordance,8232,4146,0.319,0.294 to 0.345,p<0.001
+S5 complete-case analysis,8127,4108,0.305,0.279 to 0.331,p<0.001
+S6 one knee per participant,4146,4146,0.306,0.272 to 0.340,p<0.001
+S7 gradient-boosted-tree comparator,8232,4146,GBT slope 0.298; MAE diff 0.004,Slope 0.269 to 0.326; MAE diff -0.004 to 0.012,GBT did not materially improve MAE

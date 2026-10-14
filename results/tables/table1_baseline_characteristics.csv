@@ -1,0 +1,23 @@
+Characteristic,Mean (SD) or n (%),Median [IQR] / denominator,Missing n
+"Knees, n","8,920",,0
+"Participants, n","4,490",,
+"Age, years",61.11 (9.17),"61.0 [53.0, 69.0]",0
+"BMI, kg/m²",28.58 (4.82),"28.2 [25.0, 31.7]",8
+Baseline WOMAC pain (0–20),2.34 (3.26),"1.0 [0.0, 4.0]",0
+Baseline WOMAC pain = 0,"3,946 (44.2%)",,0
+Female sex,"5,182 (58.1%)","N=8,920",0
+Race: White or Caucasian,"7,148 (80.2%)","N=8,912",8
+Race: Black or African American,"1,550 (17.4%)","N=8,912",8
+Race: Asian,76 (0.9%),"N=8,912",8
+Race: Other Non-white,138 (1.5%),"N=8,912",8
+Hispanic ethnicity,106 (1.2%),"N=8,918",2
+KL grade 0,"3,440 (38.6%)","N=8,920",0
+KL grade 1,"1,587 (17.8%)","N=8,920",0
+KL grade 2,"2,362 (26.5%)","N=8,920",0
+KL grade 3,"1,237 (13.9%)","N=8,920",0
+KL grade 4,294 (3.3%),"N=8,920",0
+Any medial JSN (grade ≥1),"3,137 (35.2%)","N=8,920",0
+Any lateral JSN (grade ≥1),728 (8.2%),"N=8,920",0
+Prior knee injury,"2,385 (27.0%)","N=8,832",88
+Prior knee surgery,"1,105 (12.4%)","N=8,903",17
+Observed 48-month WOMAC outcome,"8,232 (92.3%)","N=8,920",0

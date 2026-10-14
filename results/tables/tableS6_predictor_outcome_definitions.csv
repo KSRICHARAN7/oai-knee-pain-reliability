@@ -1,0 +1,13 @@
+Variable,Frozen definition,Role in primary study
+kl_grade_v00,Baseline Kellgren-Lawrence grade 0-4,Primary-model predictor; radiographic structure; discordance input
+medial_jsn_v00,Baseline medial joint-space-narrowing grade,Primary-model predictor
+lateral_jsn_v00,Baseline lateral joint-space-narrowing grade,Primary-model predictor
+womac_pain_v00,Baseline WOMAC knee pain score,Primary-model predictor; baseline symptom; discordance input
+womac_pain_v06,48-month WOMAC knee pain score,Primary outcome: 48-month WOMAC pain
+prior_knee_injury,Baseline history of injury severe enough to limit walking for at least two days,Primary-model predictor; subgroup audit
+prior_knee_surgery,Baseline history of knee surgery,Primary-model predictor; subgroup audit
+age_years,Age in years at baseline,Primary-model predictor
+bmi,Body mass index at baseline,Primary-model predictor
+sex,Self-reported sex category,Primary-model predictor; subgroup audit
+race,Self-reported race category,Primary-model predictor; subgroup audit
+hispanic,Self-reported Hispanic ethnicity,Primary-model predictor; subgroup audit

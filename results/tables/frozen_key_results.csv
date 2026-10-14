@@ -1,0 +1,14 @@
+Item,Frozen value,Status
+Primary eligible knees,8232,Frozen
+Primary participants,4146,Frozen
+Primary discordance-error coefficient,0.3009061281217742,Frozen
+Primary coefficient 95% CI low,0.27534795255884403,Frozen
+Primary coefficient 95% CI high,0.32646430368470436,Frozen
+Primary MAE,1.787213,Frozen
+Primary RMSE,2.566975,Frozen
+Uncertainty-error Spearman rho,0.5734206673472946,Frozen
+10% targeted abstention retained MAE,1.582299374272699,Frozen
+10% targeted abstention relative MAE reduction (%),11.46555794673642,Frozen
+"Longitudinal discordance-error slope, 24 months",0.23564697216061517,Frozen
+"Longitudinal discordance-error slope, 36 months",0.27036312951680713,Frozen
+"Longitudinal discordance-error slope, 48 months",0.25713223225684884,Frozen

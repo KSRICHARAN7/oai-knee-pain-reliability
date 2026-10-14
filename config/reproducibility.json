@@ -1,0 +1,10 @@
+{
+  "release_date": "2026-10-14",
+  "analysis_freeze_date": "2026-09-13",
+  "python": "3.12",
+  "seed": 20260721,
+  "primary_repeat_atol": 1e-12,
+  "frozen_metric_atol": 0.000005,
+  "source_archives": ["AllClinical_ASCII.zip", "General_ASCII.zip", "X-Ray Image Assessments_ASCII.zip"],
+  "environment_status": "Public core versions tested; original environment not recorded in supplied package"
+}

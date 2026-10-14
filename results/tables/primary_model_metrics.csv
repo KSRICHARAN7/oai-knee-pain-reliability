@@ -1,0 +1,6 @@
+metric,estimate,ci_2_5,ci_97_5
+mae,1.787213,1.740817,1.834540
+rmse,2.566975,2.494881,2.645478
+mean_bias_predicted_minus_observed,0.000152,-0.064666,0.061486
+calibration_intercept,0.018555,-0.075697,0.114954
+calibration_slope,0.990897,0.936010,1.044527

@@ -1,0 +1,52 @@
+[
+  {
+    "figure": "risk_coverage.svg",
+    "sources": [
+      {
+        "path": "results/tables/risk_coverage.csv",
+        "sha256": "1649541990a500fde1cf1afa3284ab48f554e25056db71859333696ba5a72724"
+      }
+    ],
+    "status": "Public-release presentation; original aggregate values unchanged"
+  },
+  {
+    "figure": "discordance_quartiles.svg",
+    "sources": [
+      {
+        "path": "results/tables/error_by_discordance_quartile_with_ci.csv",
+        "sha256": "90792e41ada7c40c86cd4e14ca077ccff6343c18f4743056bfd04e306081f00f"
+      }
+    ],
+    "status": "Public-release presentation; original aggregate values unchanged"
+  },
+  {
+    "figure": "sensitivity_forest.svg",
+    "sources": [
+      {
+        "path": "results/tables/figureS01_sensitivity_forest_data.csv",
+        "sha256": "122466502b498d93a9281cf42c0741b5bb7e61f5ff57cb610aa56c54207f497e"
+      }
+    ],
+    "status": "Public-release presentation; original aggregate values unchanged"
+  },
+  {
+    "figure": "longitudinal_slopes.svg",
+    "sources": [
+      {
+        "path": "results/tables/figureS02_longitudinal_slope_data.csv",
+        "sha256": "05657fec704cb41a78e42deffcfc7d818366d9d9f128a29b2f015fa49297ad20"
+      }
+    ],
+    "status": "Public-release presentation; original aggregate values unchanged"
+  },
+  {
+    "figure": "cohort_flow.svg",
+    "sources": [
+      {
+        "path": "results/tables/figure01_cohort_flow_data.csv",
+        "sha256": "c48c271292c2175a0ece70867c37e5c19523413d35f2a0030fc3209bb57bdfc7"
+      }
+    ],
+    "status": "Public-release presentation; original aggregate values unchanged"
+  }
+]

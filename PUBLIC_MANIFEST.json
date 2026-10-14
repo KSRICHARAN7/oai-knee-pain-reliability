@@ -1,0 +1,296 @@
+{
+  "release_date": "2026-10-14",
+  "scope": "Explicit public release allowlist; excludes this self-referential manifest and ignored local outputs",
+  "files": [
+    {
+      "path": ".github/workflows/public-checks.yml",
+      "sha256": "48af14516ff6994670f545ffd7661fa05591c31d5809eba5d38ddf298c3c5d75",
+      "bytes": 517
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "88ad96f9b5d6e40b168aae0fde274b82f227ed34ad43dd4497ba5d92adfb272c",
+      "bytes": 282
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "4a930f64249630bc61c37f77c1c451107192880a434492fd26de05e8481f93a1",
+      "bytes": 732
+    },
+    {
+      "path": "CONTRIBUTORS.md",
+      "sha256": "4535c5757b7f94990d53fa075f5268945d77aad595542f87c52c942cea3fcf49",
+      "bytes": 1185
+    },
+    {
+      "path": "LICENSE.md",
+      "sha256": "064d8469ed0801cfb6abbb8c2bc6d1363b1d589665cfd5cabd8a801525c57738",
+      "bytes": 511
+    },
+    {
+      "path": "README.md",
+      "sha256": "2766d1f71e538fe4bda0ab046e774407570d313d82269dc521268693223c8b84",
+      "bytes": 3979
+    },
+    {
+      "path": "analysis/build_knee_cohort.py",
+      "sha256": "c5bfe5ae237baed4eb8894f82fdc5c7924f2bb60d66500d1e84e1490f0b702d0",
+      "bytes": 9158
+    },
+    {
+      "path": "analysis/descriptive_qc.py",
+      "sha256": "b5c00a4abacf69db9b3418c5e9980e215336f1a90600e80d91b164c56b98ee4d",
+      "bytes": 7842
+    },
+    {
+      "path": "analysis/followup_attrition_analysis.py",
+      "sha256": "e1fc2cfb5c47bd535a13b9d7446b19207dd6dfa15ac2877c4ab27b8f9108d236",
+      "bytes": 9709
+    },
+    {
+      "path": "analysis/knee_replacement_outcome_audit.py",
+      "sha256": "ea70ee1e4938c3d1fed44f34c610ac471db786c48b0c2185920acbda13bb7fa8",
+      "bytes": 6762
+    },
+    {
+      "path": "analysis/longitudinal_analysis.py",
+      "sha256": "377e8c5424e11251cbaf901e562c76755e13aaadb6d2f40a2c3dd17248051585",
+      "bytes": 15082
+    },
+    {
+      "path": "analysis/primary_hypothesis_analysis.py",
+      "sha256": "6dea98cc3d9c0550408fbf48728606b3a7a7117574b42e13a55c0e0b68aa82e2",
+      "bytes": 7910
+    },
+    {
+      "path": "analysis/primary_model_pipeline.py",
+      "sha256": "a8705600fc85bae95c6a05c368bcdc4f15b179626202d798dd2fdcce405a5ae4",
+      "bytes": 10091
+    },
+    {
+      "path": "analysis/sensitivity_analyses.py",
+      "sha256": "3811d4feb9369eea98c4e2a210dfb91f8b8f37806f37d7c870777a7ae04eed70",
+      "bytes": 15496
+    },
+    {
+      "path": "analysis/subgroup_abstention_audit.py",
+      "sha256": "518df0036ce511296be5b2691df32d9e3cb2236be5d582e98c54278441e07b52",
+      "bytes": 10697
+    },
+    {
+      "path": "analysis/uncertainty_abstention_analysis.py",
+      "sha256": "773dff84a7d3c80e58e9eede3e6fc055d927ba5dbb38225ee93cd01a6e29be2b",
+      "bytes": 13418
+    },
+    {
+      "path": "config/reproducibility.json",
+      "sha256": "7adc5fd4beb54f1857550d529643c0cf4cd1d40b749a8314a5f7fa7a3f77b77e",
+      "bytes": 397
+    },
+    {
+      "path": "docs/data_policy.md",
+      "sha256": "b0c4533726b588fa2ae300a04661898c36dee902ce53cced6ea3c6b3d7620a1f",
+      "bytes": 1712
+    },
+    {
+      "path": "docs/figure_provenance.json",
+      "sha256": "5651c2ed928846ff292d0dce25ec5b03077d7fa5a66a35c6044cf51df1fc86ed",
+      "bytes": 1606
+    },
+    {
+      "path": "docs/reproducibility.md",
+      "sha256": "c5a75a6b2495fea46aef0639e544256474acc4c003bf2f9a97947eb11b591264",
+      "bytes": 2813
+    },
+    {
+      "path": "docs/research_overview.md",
+      "sha256": "1c7b849fdfcefcf4e060659401e782228aa86d74598dcf6dfeb8206bd39bf566",
+      "bytes": 1697
+    },
+    {
+      "path": "docs/source_provenance.json",
+      "sha256": "f617bdcb3e23b9792e8baa4eadfe95d580685dc47d737ecc0381e1f4da1e9b68",
+      "bytes": 12360
+    },
+    {
+      "path": "docs/variable_dictionary.csv",
+      "sha256": "e68895102eefd53682ab3240aca3111a1784530e4f94b77813924a8c1282cac9",
+      "bytes": 2104
+    },
+    {
+      "path": "protocols/FINAL_ANALYSIS_FREEZE_2026-09-13.md",
+      "sha256": "b2f9d01bc8a05819f8172527fb041164f1122bfbdd5c45797db792ea46536ac3",
+      "bytes": 2186
+    },
+    {
+      "path": "protocols/FOLLOWUP_ATTRITION_ANALYSIS_SPECIFICATION_2026-09-13.md",
+      "sha256": "a92f8d99c1f4a204bef3095f92e2c352f599686beded110c3c4c22d777ff4d9b",
+      "bytes": 1838
+    },
+    {
+      "path": "protocols/KNEE_REPLACEMENT_OUTCOME_AUDIT_SPECIFICATION_2026-09-13.md",
+      "sha256": "43951ef39aaaf4119effe3cb310552714e6a1f17fc39dc18a5338c4bab77e832",
+      "bytes": 1836
+    },
+    {
+      "path": "protocols/LITERATURE_NOVELTY_AUDIT_SPECIFICATION_2026-09-13.md",
+      "sha256": "579b9244a99453a4380d86426007483528174b446e5184ee3e084265491eaa99",
+      "bytes": 1213
+    },
+    {
+      "path": "protocols/LONGITUDINAL_ANALYSIS_SPECIFICATION_2026-09-13.md",
+      "sha256": "3d0ffd99feeadb8713894ece8fcf9036483fde4569b345082d3ebf0c6ed57544",
+      "bytes": 3434
+    },
+    {
+      "path": "protocols/PREREGISTRATION_LOCK.md",
+      "sha256": "6624088c65e14b9725a7e7d6291cf9de246eb0ccd1f80c8c30344a44f16a38c4",
+      "bytes": 7373
+    },
+    {
+      "path": "protocols/SENSITIVITY_ANALYSIS_LOCK_2026-09-13.md",
+      "sha256": "1a4bc49d3e800da4d609ff26b5e829aef0d6ae96ad1203b315c20a39b55a05ba",
+      "bytes": 5172
+    },
+    {
+      "path": "protocols/SUBGROUP_ABSTENTION_AUDIT_SPECIFICATION_2026-09-13.md",
+      "sha256": "803e52e3c672d2a4ee240276dcb355e5a81709acc2989a8b47bf448998072d43",
+      "bytes": 2766
+    },
+    {
+      "path": "protocols/TRIPOD_AI_REPORTING_AUDIT_2026-09-14.md",
+      "sha256": "ec3a8c4af98e1e561373e8764f49130865461e3c3d1037e0679eb03e6c3d1fe6",
+      "bytes": 1268
+    },
+    {
+      "path": "requirements-secondary.txt",
+      "sha256": "587e0e170863660ef0fcbaaa2daba89d83b431e281057d12bb8731e1de564cac",
+      "bytes": 142
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "51fd4dbd1a0a69d51805d1be84b7a873fcae598f94d24dab7481f337aff04909",
+      "bytes": 176
+    },
+    {
+      "path": "results/figures/cohort_flow.svg",
+      "sha256": "00942e8d0c3aef4648cb59f00110d12904f746ac2fa9cf025ec4fc9fb2d81f5c",
+      "bytes": 42976
+    },
+    {
+      "path": "results/figures/discordance_quartiles.svg",
+      "sha256": "1ab2640d37bbf097964b223c5aa8a6197ebbf37dca6708c8aa6fe5e738b14397",
+      "bytes": 33878
+    },
+    {
+      "path": "results/figures/longitudinal_slopes.svg",
+      "sha256": "e3efd0b82a90904d7c6d9cc6c9afab38e709cc77eef8b099c6b074c8640f98aa",
+      "bytes": 27537
+    },
+    {
+      "path": "results/figures/risk_coverage.svg",
+      "sha256": "96bc152430f2371467795acf29f2cbdfee025259fc9ff4bcbf9b1a0296601fea",
+      "bytes": 45973
+    },
+    {
+      "path": "results/figures/sensitivity_forest.svg",
+      "sha256": "2bb4f7a77e7dc2e782a95636308dc3bf2a2a5c1b3d231ba127a8a70dff66cebb",
+      "bytes": 51829
+    },
+    {
+      "path": "results/tables/baseline_by_kl.csv",
+      "sha256": "f81ebc7ee81b652ba4499513e4397cfbd245118892e4620b2d03c0fe2c3aabe4",
+      "bytes": 472
+    },
+    {
+      "path": "results/tables/error_by_discordance_quartile_with_ci.csv",
+      "sha256": "90792e41ada7c40c86cd4e14ca077ccff6343c18f4743056bfd04e306081f00f",
+      "bytes": 437
+    },
+    {
+      "path": "results/tables/figure01_cohort_flow_data.csv",
+      "sha256": "c48c271292c2175a0ece70867c37e5c19523413d35f2a0030fc3209bb57bdfc7",
+      "bytes": 294
+    },
+    {
+      "path": "results/tables/figureS01_sensitivity_forest_data.csv",
+      "sha256": "122466502b498d93a9281cf42c0741b5bb7e61f5ff57cb610aa56c54207f497e",
+      "bytes": 650
+    },
+    {
+      "path": "results/tables/figureS02_longitudinal_slope_data.csv",
+      "sha256": "05657fec704cb41a78e42deffcfc7d818366d9d9f128a29b2f015fa49297ad20",
+      "bytes": 223
+    },
+    {
+      "path": "results/tables/frozen_key_results.csv",
+      "sha256": "009d6a24561588159b551afe94e98ee9c328717848df01c845131223a5140c23",
+      "bytes": 771
+    },
+    {
+      "path": "results/tables/primary_model_metrics.csv",
+      "sha256": "4f8339647e4a5786ddbb84bcf0a0b3d30cc48f9699037457cfecb42cb3c81398",
+      "bytes": 252
+    },
+    {
+      "path": "results/tables/risk_coverage.csv",
+      "sha256": "1649541990a500fde1cf1afa3284ab48f554e25056db71859333696ba5a72724",
+      "bytes": 369
+    },
+    {
+      "path": "results/tables/table1_baseline_characteristics.csv",
+      "sha256": "6e53ec605fb7a1e6f51d18b58942f9bc5939e925604ab73184d7c66899a60564",
+      "bytes": 1070
+    },
+    {
+      "path": "results/tables/table2_primary_and_uncertainty_results.csv",
+      "sha256": "33155589c27d7d20312cdd28cc04ca6e694cf9a4bef8072a8ac7c0f024bd2ebc",
+      "bytes": 576
+    },
+    {
+      "path": "results/tables/tableS2_sensitivity_analyses.csv",
+      "sha256": "82af900584c4aba1ad067a9c689814f03a6d8ff0ba4b4f0d5658cbace13dcd39",
+      "bytes": 740
+    },
+    {
+      "path": "results/tables/tableS3_longitudinal_results.csv",
+      "sha256": "3686a18694c360b14b3dec271883dfe4efb0806c22b65e6fdca77e8fd24d897f",
+      "bytes": 276
+    },
+    {
+      "path": "results/tables/tableS6_predictor_outcome_definitions.csv",
+      "sha256": "7a462fb22d19522dcad8164b1160a1d0cf94cfc6ddbf845ade630bc405a5aa37",
+      "bytes": 1108
+    },
+    {
+      "path": "results/tables/tableS7_fold_tuning_and_counts.csv",
+      "sha256": "15a8e61808b0e78caea934c3acdcf6067c07119de703b84c44383bec69fa2f30",
+      "bytes": 349
+    },
+    {
+      "path": "scripts/check_aggregate_consistency.py",
+      "sha256": "5b1eb4195f24841b6cdfd8cc9b868ff70efdbf2cf4a63e3547738364b1077a61",
+      "bytes": 1480
+    },
+    {
+      "path": "scripts/regenerate_figures.py",
+      "sha256": "58a28b79753f4002c7e10be9b4ed8def1e3c99d5be85881426a79f9660b9170e",
+      "bytes": 3435
+    },
+    {
+      "path": "scripts/reproduce.py",
+      "sha256": "cc1b43abbf7edaa7d5bdf55e35147b135d073ef455d009d0b0c4c1abe41f1eb0",
+      "bytes": 3900
+    },
+    {
+      "path": "scripts/smoke_test.py",
+      "sha256": "d9f7173837d521deaecae40e17668353f64b4eae8aa7ee2ece2a29180d3122ad",
+      "bytes": 1293
+    },
+    {
+      "path": "scripts/verify_public.py",
+      "sha256": "756fbde129d8390e31384873c8da22a0fc24fa2aa5f00a1f51327fbca68cf7fc",
+      "bytes": 2104
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+variable,definition,planned_role
+participant_key,Project-specific participant identifier used to group two knees,grouping and train-test split
+knee_key,Project-specific knee identifier,index
+side,Right or left knee,index
+kl_grade_v00,Baseline Kellgren-Lawrence grade 0-4,primary structural predictor
+medial_jsn_v00,Baseline medial joint-space-narrowing grade,secondary structural predictor
+lateral_jsn_v00,Baseline lateral joint-space-narrowing grade,secondary structural predictor
+womac_pain_v00,Baseline WOMAC knee pain score,baseline symptom and discordance input
+koos_pain_v00,Baseline KOOS pain score,sensitivity analysis
+womac_pain_v03,24-month WOMAC knee pain score,longitudinal outcome
+koos_pain_v03,24-month KOOS pain score,sensitivity analysis
+womac_pain_v05,36-month WOMAC knee pain score,longitudinal outcome
+koos_pain_v05,36-month KOOS pain score,sensitivity analysis
+womac_pain_v06,48-month WOMAC knee pain score,longitudinal outcome
+koos_pain_v06,48-month KOOS pain score,sensitivity analysis
+kl_grade_v06,48-month Kellgren-Lawrence grade,secondary structural outcome
+medial_jsn_v06,48-month medial joint-space-narrowing grade,secondary structural outcome
+lateral_jsn_v06,48-month lateral joint-space-narrowing grade,secondary structural outcome
+prior_knee_injury,Baseline history of injury severe enough to limit walking for at least two days,covariate
+prior_knee_surgery,Baseline history of knee surgery,covariate
+age_years,Age in years at baseline,covariate
+bmi,Body mass index at baseline,covariate
+sex,Self-reported sex category,covariate and subgroup audit
+race,Self-reported race category,covariate and subgroup audit
+hispanic,Self-reported Hispanic ethnicity,covariate and subgroup audit
+replacement_at_baseline,Knee replacement visible on baseline OAI X-ray,exclusion variable
+replacement_status_code,OAI follow-up replacement adjudication status,secondary outcome support
+replacement_days,Days from enrollment to follow-up knee replacement,secondary time-to-event outcome
+confirmed_followup_replacement,Indicator for adjudicated confirmed follow-up replacement,secondary outcome

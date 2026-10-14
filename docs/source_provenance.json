@@ -1,0 +1,243 @@
+{
+  "note": "Hashes identify the supplied technical source files; they do not establish preregistration registration or external verification. The private ZIP and row-level artifacts are not distributed.",
+  "files": [
+    {
+      "source_path": "build_knee_cohort.py",
+      "public_path": "analysis/build_knee_cohort.py",
+      "source_sha256": "c5bfe5ae237baed4eb8894f82fdc5c7924f2bb60d66500d1e84e1490f0b702d0",
+      "public_sha256": "c5bfe5ae237baed4eb8894f82fdc5c7924f2bb60d66500d1e84e1490f0b702d0",
+      "change": "none"
+    },
+    {
+      "source_path": "descriptive_qc.py",
+      "public_path": "analysis/descriptive_qc.py",
+      "source_sha256": "b5c00a4abacf69db9b3418c5e9980e215336f1a90600e80d91b164c56b98ee4d",
+      "public_sha256": "b5c00a4abacf69db9b3418c5e9980e215336f1a90600e80d91b164c56b98ee4d",
+      "change": "none"
+    },
+    {
+      "source_path": "followup_attrition_analysis.py",
+      "public_path": "analysis/followup_attrition_analysis.py",
+      "source_sha256": "e1fc2cfb5c47bd535a13b9d7446b19207dd6dfa15ac2877c4ab27b8f9108d236",
+      "public_sha256": "e1fc2cfb5c47bd535a13b9d7446b19207dd6dfa15ac2877c4ab27b8f9108d236",
+      "change": "none"
+    },
+    {
+      "source_path": "knee_replacement_outcome_audit.py",
+      "public_path": "analysis/knee_replacement_outcome_audit.py",
+      "source_sha256": "ea70ee1e4938c3d1fed44f34c610ac471db786c48b0c2185920acbda13bb7fa8",
+      "public_sha256": "ea70ee1e4938c3d1fed44f34c610ac471db786c48b0c2185920acbda13bb7fa8",
+      "change": "none"
+    },
+    {
+      "source_path": "longitudinal_analysis.py",
+      "public_path": "analysis/longitudinal_analysis.py",
+      "source_sha256": "377e8c5424e11251cbaf901e562c76755e13aaadb6d2f40a2c3dd17248051585",
+      "public_sha256": "377e8c5424e11251cbaf901e562c76755e13aaadb6d2f40a2c3dd17248051585",
+      "change": "none"
+    },
+    {
+      "source_path": "primary_hypothesis_analysis.py",
+      "public_path": "analysis/primary_hypothesis_analysis.py",
+      "source_sha256": "6dea98cc3d9c0550408fbf48728606b3a7a7117574b42e13a55c0e0b68aa82e2",
+      "public_sha256": "6dea98cc3d9c0550408fbf48728606b3a7a7117574b42e13a55c0e0b68aa82e2",
+      "change": "none"
+    },
+    {
+      "source_path": "primary_model_pipeline.py",
+      "public_path": "analysis/primary_model_pipeline.py",
+      "source_sha256": "a8705600fc85bae95c6a05c368bcdc4f15b179626202d798dd2fdcce405a5ae4",
+      "public_sha256": "a8705600fc85bae95c6a05c368bcdc4f15b179626202d798dd2fdcce405a5ae4",
+      "change": "none"
+    },
+    {
+      "source_path": "sensitivity_analyses.py",
+      "public_path": "analysis/sensitivity_analyses.py",
+      "source_sha256": "3811d4feb9369eea98c4e2a210dfb91f8b8f37806f37d7c870777a7ae04eed70",
+      "public_sha256": "3811d4feb9369eea98c4e2a210dfb91f8b8f37806f37d7c870777a7ae04eed70",
+      "change": "none"
+    },
+    {
+      "source_path": "subgroup_abstention_audit.py",
+      "public_path": "analysis/subgroup_abstention_audit.py",
+      "source_sha256": "518df0036ce511296be5b2691df32d9e3cb2236be5d582e98c54278441e07b52",
+      "public_sha256": "518df0036ce511296be5b2691df32d9e3cb2236be5d582e98c54278441e07b52",
+      "change": "none"
+    },
+    {
+      "source_path": "uncertainty_abstention_analysis.py",
+      "public_path": "analysis/uncertainty_abstention_analysis.py",
+      "source_sha256": "773dff84a7d3c80e58e9eede3e6fc055d927ba5dbb38225ee93cd01a6e29be2b",
+      "public_sha256": "773dff84a7d3c80e58e9eede3e6fc055d927ba5dbb38225ee93cd01a6e29be2b",
+      "change": "none"
+    },
+    {
+      "source_path": "FINAL_ANALYSIS_FREEZE_2026-09-13.md",
+      "public_path": "protocols/FINAL_ANALYSIS_FREEZE_2026-09-13.md",
+      "source_sha256": "b2f9d01bc8a05819f8172527fb041164f1122bfbdd5c45797db792ea46536ac3",
+      "public_sha256": "b2f9d01bc8a05819f8172527fb041164f1122bfbdd5c45797db792ea46536ac3",
+      "change": "none"
+    },
+    {
+      "source_path": "FOLLOWUP_ATTRITION_ANALYSIS_SPECIFICATION_2026-09-13.md",
+      "public_path": "protocols/FOLLOWUP_ATTRITION_ANALYSIS_SPECIFICATION_2026-09-13.md",
+      "source_sha256": "a92f8d99c1f4a204bef3095f92e2c352f599686beded110c3c4c22d777ff4d9b",
+      "public_sha256": "a92f8d99c1f4a204bef3095f92e2c352f599686beded110c3c4c22d777ff4d9b",
+      "change": "none"
+    },
+    {
+      "source_path": "KNEE_REPLACEMENT_OUTCOME_AUDIT_SPECIFICATION_2026-09-13.md",
+      "public_path": "protocols/KNEE_REPLACEMENT_OUTCOME_AUDIT_SPECIFICATION_2026-09-13.md",
+      "source_sha256": "43951ef39aaaf4119effe3cb310552714e6a1f17fc39dc18a5338c4bab77e832",
+      "public_sha256": "43951ef39aaaf4119effe3cb310552714e6a1f17fc39dc18a5338c4bab77e832",
+      "change": "none"
+    },
+    {
+      "source_path": "LITERATURE_NOVELTY_AUDIT_SPECIFICATION_2026-09-13.md",
+      "public_path": "protocols/LITERATURE_NOVELTY_AUDIT_SPECIFICATION_2026-09-13.md",
+      "source_sha256": "579b9244a99453a4380d86426007483528174b446e5184ee3e084265491eaa99",
+      "public_sha256": "579b9244a99453a4380d86426007483528174b446e5184ee3e084265491eaa99",
+      "change": "none"
+    },
+    {
+      "source_path": "LONGITUDINAL_ANALYSIS_SPECIFICATION_2026-09-13.md",
+      "public_path": "protocols/LONGITUDINAL_ANALYSIS_SPECIFICATION_2026-09-13.md",
+      "source_sha256": "3d0ffd99feeadb8713894ece8fcf9036483fde4569b345082d3ebf0c6ed57544",
+      "public_sha256": "3d0ffd99feeadb8713894ece8fcf9036483fde4569b345082d3ebf0c6ed57544",
+      "change": "none"
+    },
+    {
+      "source_path": "PREREGISTRATION_LOCK.md",
+      "public_path": "protocols/PREREGISTRATION_LOCK.md",
+      "source_sha256": "6624088c65e14b9725a7e7d6291cf9de246eb0ccd1f80c8c30344a44f16a38c4",
+      "public_sha256": "6624088c65e14b9725a7e7d6291cf9de246eb0ccd1f80c8c30344a44f16a38c4",
+      "change": "none"
+    },
+    {
+      "source_path": "SENSITIVITY_ANALYSIS_LOCK_2026-09-13.md",
+      "public_path": "protocols/SENSITIVITY_ANALYSIS_LOCK_2026-09-13.md",
+      "source_sha256": "1a4bc49d3e800da4d609ff26b5e829aef0d6ae96ad1203b315c20a39b55a05ba",
+      "public_sha256": "1a4bc49d3e800da4d609ff26b5e829aef0d6ae96ad1203b315c20a39b55a05ba",
+      "change": "none"
+    },
+    {
+      "source_path": "SUBGROUP_ABSTENTION_AUDIT_SPECIFICATION_2026-09-13.md",
+      "public_path": "protocols/SUBGROUP_ABSTENTION_AUDIT_SPECIFICATION_2026-09-13.md",
+      "source_sha256": "803e52e3c672d2a4ee240276dcb355e5a81709acc2989a8b47bf448998072d43",
+      "public_sha256": "803e52e3c672d2a4ee240276dcb355e5a81709acc2989a8b47bf448998072d43",
+      "change": "none"
+    },
+    {
+      "source_path": "TRIPOD_AI_REPORTING_AUDIT_2026-09-14.md",
+      "public_path": "protocols/TRIPOD_AI_REPORTING_AUDIT_2026-09-14.md",
+      "source_sha256": "ec3a8c4af98e1e561373e8764f49130865461e3c3d1037e0679eb03e6c3d1fe6",
+      "public_sha256": "ec3a8c4af98e1e561373e8764f49130865461e3c3d1037e0679eb03e6c3d1fe6",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/figure01_cohort_flow_data.csv",
+      "public_path": "results/tables/figure01_cohort_flow_data.csv",
+      "source_sha256": "c48c271292c2175a0ece70867c37e5c19523413d35f2a0030fc3209bb57bdfc7",
+      "public_sha256": "c48c271292c2175a0ece70867c37e5c19523413d35f2a0030fc3209bb57bdfc7",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/figureS01_sensitivity_forest_data.csv",
+      "public_path": "results/tables/figureS01_sensitivity_forest_data.csv",
+      "source_sha256": "122466502b498d93a9281cf42c0741b5bb7e61f5ff57cb610aa56c54207f497e",
+      "public_sha256": "122466502b498d93a9281cf42c0741b5bb7e61f5ff57cb610aa56c54207f497e",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/figureS02_longitudinal_slope_data.csv",
+      "public_path": "results/tables/figureS02_longitudinal_slope_data.csv",
+      "source_sha256": "05657fec704cb41a78e42deffcfc7d818366d9d9f128a29b2f015fa49297ad20",
+      "public_sha256": "05657fec704cb41a78e42deffcfc7d818366d9d9f128a29b2f015fa49297ad20",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/table1_baseline_characteristics.csv",
+      "public_path": "results/tables/table1_baseline_characteristics.csv",
+      "source_sha256": "6e53ec605fb7a1e6f51d18b58942f9bc5939e925604ab73184d7c66899a60564",
+      "public_sha256": "6e53ec605fb7a1e6f51d18b58942f9bc5939e925604ab73184d7c66899a60564",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/table2_primary_and_uncertainty_results.csv",
+      "public_path": "results/tables/table2_primary_and_uncertainty_results.csv",
+      "source_sha256": "33155589c27d7d20312cdd28cc04ca6e694cf9a4bef8072a8ac7c0f024bd2ebc",
+      "public_sha256": "33155589c27d7d20312cdd28cc04ca6e694cf9a4bef8072a8ac7c0f024bd2ebc",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/tableS2_sensitivity_analyses.csv",
+      "public_path": "results/tables/tableS2_sensitivity_analyses.csv",
+      "source_sha256": "82af900584c4aba1ad067a9c689814f03a6d8ff0ba4b4f0d5658cbace13dcd39",
+      "public_sha256": "82af900584c4aba1ad067a9c689814f03a6d8ff0ba4b4f0d5658cbace13dcd39",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/tableS3_longitudinal_results.csv",
+      "public_path": "results/tables/tableS3_longitudinal_results.csv",
+      "source_sha256": "3686a18694c360b14b3dec271883dfe4efb0806c22b65e6fdca77e8fd24d897f",
+      "public_sha256": "3686a18694c360b14b3dec271883dfe4efb0806c22b65e6fdca77e8fd24d897f",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/tableS6_predictor_outcome_definitions.csv",
+      "public_path": "results/tables/tableS6_predictor_outcome_definitions.csv",
+      "source_sha256": "7a462fb22d19522dcad8164b1160a1d0cf94cfc6ddbf845ade630bc405a5aa37",
+      "public_sha256": "7a462fb22d19522dcad8164b1160a1d0cf94cfc6ddbf845ade630bc405a5aa37",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/publication_assets/tableS7_fold_tuning_and_counts.csv",
+      "public_path": "results/tables/tableS7_fold_tuning_and_counts.csv",
+      "source_sha256": "15a8e61808b0e78caea934c3acdcf6067c07119de703b84c44383bec69fa2f30",
+      "public_sha256": "15a8e61808b0e78caea934c3acdcf6067c07119de703b84c44383bec69fa2f30",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/analysis_freeze/frozen_key_results.csv",
+      "public_path": "results/tables/frozen_key_results.csv",
+      "source_sha256": "009d6a24561588159b551afe94e98ee9c328717848df01c845131223a5140c23",
+      "public_sha256": "009d6a24561588159b551afe94e98ee9c328717848df01c845131223a5140c23",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/primary_model/primary_model_metrics.csv",
+      "public_path": "results/tables/primary_model_metrics.csv",
+      "source_sha256": "4f8339647e4a5786ddbb84bcf0a0b3d30cc48f9699037457cfecb42cb3c81398",
+      "public_sha256": "4f8339647e4a5786ddbb84bcf0a0b3d30cc48f9699037457cfecb42cb3c81398",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/primary_analysis/error_by_discordance_quartile_with_ci.csv",
+      "public_path": "results/tables/error_by_discordance_quartile_with_ci.csv",
+      "source_sha256": "90792e41ada7c40c86cd4e14ca077ccff6343c18f4743056bfd04e306081f00f",
+      "public_sha256": "90792e41ada7c40c86cd4e14ca077ccff6343c18f4743056bfd04e306081f00f",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/uncertainty/risk_coverage.csv",
+      "public_path": "results/tables/risk_coverage.csv",
+      "source_sha256": "1649541990a500fde1cf1afa3284ab48f554e25056db71859333696ba5a72724",
+      "public_sha256": "1649541990a500fde1cf1afa3284ab48f554e25056db71859333696ba5a72724",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/descriptive_qc/baseline_by_kl.csv",
+      "public_path": "results/tables/baseline_by_kl.csv",
+      "source_sha256": "f81ebc7ee81b652ba4499513e4397cfbd245118892e4620b2d03c0fe2c3aabe4",
+      "public_sha256": "f81ebc7ee81b652ba4499513e4397cfbd245118892e4620b2d03c0fe2c3aabe4",
+      "change": "none"
+    },
+    {
+      "source_path": "outputs/variable_dictionary.csv",
+      "public_path": "docs/variable_dictionary.csv",
+      "source_sha256": "e68895102eefd53682ab3240aca3111a1784530e4f94b77813924a8c1282cac9",
+      "public_sha256": "e68895102eefd53682ab3240aca3111a1784530e4f94b77813924a8c1282cac9",
+      "change": "none"
+    }
+  ]
+}

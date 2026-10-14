@@ -1,0 +1,24 @@
+# Restricted input and every generated analysis output
+/data/
+/private_source/
+/upload/
+/outputs/
+/analysis/outputs/
+/analysis/outputs_repeat/
+/local_runs/
+*.zip
+*.gz
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.joblib
+*.sas7bdat
+*.sav
+*.dta
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

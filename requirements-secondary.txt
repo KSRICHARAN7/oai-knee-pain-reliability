@@ -1,0 +1,4 @@
+-r requirements.txt
+# Secondary-analysis compatibility ranges; not locally validated in this release.
+statsmodels>=0.14,<0.15
+xgboost>=3.0,<4

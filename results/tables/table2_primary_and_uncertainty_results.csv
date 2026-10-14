@@ -1,0 +1,11 @@
+Measure,Estimate,95% CI,P value / note
+Held-out MAE,1.787,1.741 to 1.835,
+Held-out RMSE,2.567,2.495 to 2.645,
+Mean prediction bias,0.000,-0.065 to 0.061,
+Calibration intercept,0.019,-0.076 to 0.115,
+Calibration slope,0.991,0.936 to 1.045,
+Discordance → absolute prediction-error coefficient,0.301,0.275 to 0.326,p<0.001
+Uncertainty vs observed absolute error (Spearman ρ),0.573,,p<0.001
+Retained-case MAE after frozen 10% abstention,1.582,1.540 to 1.625,
+Relative MAE reduction after frozen 10% abstention,11.5%,,
+Random 10% abstention MAE,1.788,1.774 to 1.801,
