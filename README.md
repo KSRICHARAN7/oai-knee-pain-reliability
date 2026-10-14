@@ -18,6 +18,10 @@ These are internally cross-validated results, not external validation or prospec
 
 ![Risk versus coverage](results/figures/risk_coverage.svg)
 
+## Interactive companion
+
+[**Open the Model Reliability Explorer**](https://oai-model-reliability.shrewdskink1.chatgpt.site) — adjust fictional X-ray/pain examples, inspect transparent teaching formulas, and explore the actual frozen coverage–error results. The simulator uses synthetic cases and is separate from the fitted OAI models. It is not a clinical prediction service.
+
 ## Explore the evidence
 
 - [Research overview and limitations](docs/research_overview.md)
