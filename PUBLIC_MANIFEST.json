@@ -3,6 +3,11 @@
   "scope": "Explicit public release allowlist; excludes this self-referential manifest and ignored local outputs",
   "files": [
     {
+      "path": ".gitattributes",
+      "sha256": "10f14c778ef4437acbe3675ccc7809550b615f37bd10cec1058aef223eb7ecd3",
+      "bytes": 85
+    },
+    {
       "path": ".github/workflows/public-checks.yml",
       "sha256": "48af14516ff6994670f545ffd7661fa05591c31d5809eba5d38ddf298c3c5d75",
       "bytes": 517
