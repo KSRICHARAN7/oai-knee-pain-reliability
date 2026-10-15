@@ -3,6 +3,7 @@
 from pathlib import Path
 import csv,hashlib,json,re
 ROOT=Path(__file__).resolve().parents[1]
+REVIEWED_PUBLIC_PDFS={'manuscript.pdf':'ce3fd577b8403c58f1ffcc59cd39239ff5bbabae99b7f2deff8837f657572d1c'}
 IGNORED={'.git','.venv','__pycache__','local_runs'}
 def files():
     for p in ROOT.rglob('*'):
@@ -19,7 +20,10 @@ def main():
     forbidden={'id','participant_key','knee_key','predicted_womac_48m','observed_womac_48m','uncertainty_score'}
     for name,p in actual.items():
         if hashlib.sha256(p.read_bytes()).hexdigest()!=expected[name]['sha256']:raise SystemExit(f'Hash mismatch: {name}')
-        if p.suffix.lower() in {'.zip','.gz','.parquet','.pkl','.joblib','.xlsx','.pdf'}:raise SystemExit(f'Forbidden public binary: {name}')
+        if p.suffix.lower()=='.pdf':
+            if REVIEWED_PUBLIC_PDFS.get(name)!=hashlib.sha256(p.read_bytes()).hexdigest():raise SystemExit(f'Unreviewed public PDF: {name}')
+            if not p.read_bytes().startswith(b'%PDF-') or not p.read_bytes().rstrip().endswith(b'%%EOF'):raise SystemExit(f'Malformed PDF: {name}')
+        elif p.suffix.lower() in {'.zip','.gz','.parquet','.pkl','.joblib','.xlsx'}:raise SystemExit(f'Forbidden public binary: {name}')
         if p.suffix=='.csv':
             with p.open(newline='') as f:
                 reader=csv.reader(f);header=next(reader)

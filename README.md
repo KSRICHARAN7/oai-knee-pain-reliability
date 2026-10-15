@@ -20,9 +20,11 @@ These are internally cross-validated results, not external validation or prospec
 
 ![Risk versus coverage](results/figures/risk_coverage.svg)
 
-## Manuscript and author portfolio
+## Full manuscript
 
-[Read the author-shared manuscript PDF](https://ksricharan7.github.io/portfolio/materials/oai-manuscript.pdf?v=20261015-fixed) and [the full research/service portfolio](https://ksricharan7.github.io/portfolio/). The manuscript is under review at The Curieux Review; no acceptance is claimed. [Review-status record](https://ksricharan7.github.io/portfolio/materials/research-status.html).
+[Read the complete manuscript PDF](manuscript.pdf) — the intact 22-page paper is included directly in this repository. [Open a browser PDF copy](https://ksricharan7.github.io/portfolio/materials/oai-manuscript.pdf?v=20261015-fixed). The manuscript is under review at The Curieux Review; no acceptance is claimed. [Review-status record](https://ksricharan7.github.io/portfolio/materials/research-status.html).
+
+[Author portfolio](https://ksricharan7.github.io/portfolio/).
 
 ## Interactive companion
 

@@ -34,8 +34,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "e557f4dcea4218f1a41f6313c452c46abb8610a8d969369449305a2b310568e7",
-      "bytes": 5467
+      "sha256": "98ef7ea53b906be3ee849a3e4ade41dd0f3ec5ee5d948b9781b2e4dd0fb13252",
+      "bytes": 5554
     },
     {
       "path": "analysis/build_knee_cohort.py",
@@ -94,8 +94,8 @@
     },
     {
       "path": "docs/data_policy.md",
-      "sha256": "b0c4533726b588fa2ae300a04661898c36dee902ce53cced6ea3c6b3d7620a1f",
-      "bytes": 1712
+      "sha256": "3c708678523e4f6d4ff08336048973af11648704f86c94d8d8b56a92ec7f0e3b",
+      "bytes": 2075
     },
     {
       "path": "docs/figure_provenance.json",
@@ -126,6 +126,11 @@
       "path": "docs/variable_dictionary.csv",
       "sha256": "e68895102eefd53682ab3240aca3111a1784530e4f94b77813924a8c1282cac9",
       "bytes": 2104
+    },
+    {
+      "path": "manuscript.pdf",
+      "sha256": "ce3fd577b8403c58f1ffcc59cd39239ff5bbabae99b7f2deff8837f657572d1c",
+      "bytes": 914257
     },
     {
       "path": "protocols/FINAL_ANALYSIS_FREEZE_2026-09-13.md",
@@ -299,8 +304,9 @@
     },
     {
       "path": "scripts/verify_public.py",
-      "sha256": "756fbde129d8390e31384873c8da22a0fc24fa2aa5f00a1f51327fbca68cf7fc",
-      "bytes": 2104
+      "sha256": "1020d2ab0ecaceddbf5b6847faf329de973ff08ef715d3025b44d5e5b27e6806",
+      "bytes": 2532
     }
-  ]
+  ],
+  "last_updated": "2026-10-15"
 }

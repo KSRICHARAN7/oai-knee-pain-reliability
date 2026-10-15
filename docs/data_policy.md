@@ -9,3 +9,7 @@ Public files were selected using an explicit allowlist, not by copying the techn
 Never commit raw records, participant or knee keys in record tables, derived cohort rows, predictions, individual uncertainty scores, fold assignments, bootstrap draws, trained models, private ZIPs, or credentials. Project-specific keys remain record-level data even when original OAI IDs are absent. Local full runs write to ignored `analysis/outputs/` and `analysis/outputs_repeat/`.
 
 A `.gitignore` is a guardrail, not a privacy guarantee. `scripts/verify_public.py` requires every distributable file to be named in `PUBLIC_MANIFEST.json`, validates its hash, and scans public CSV headers and content. Check any proposed additions manually and update the allowlist only after review. Never attach restricted analysis output to issues or pull requests.
+
+## Author manuscript
+
+The reviewed author-shared manuscript is included as `manuscript.pdf`. It is the same intact 22-page public paper, not participant-level data. The verifier permits only this exact reviewed PDF by path and SHA256; other PDF additions remain blocked. The manuscript is under review, and public availability does not imply journal acceptance.
