@@ -20,6 +20,10 @@ These are internally cross-validated results, not external validation or prospec
 
 ![Risk versus coverage](results/figures/risk_coverage.svg)
 
+## Manuscript and author portfolio
+
+[Read the author-shared manuscript PDF](https://ksricharan7.github.io/portfolio/materials/oai-manuscript.pdf) and [the full research/service portfolio](https://ksricharan7.github.io/portfolio/). The manuscript is under review at The Curieux Review; no acceptance is claimed. [Review-status record](https://ksricharan7.github.io/portfolio/materials/research-status.html).
+
 ## Interactive companion
 
 [**Open the Model Reliability Explorer**](https://ksricharan7.github.io/oai-model-reliability/) — adjust fictional X-ray/pain examples, inspect transparent teaching formulas, and explore the actual frozen coverage–error results. The simulator uses synthetic cases and is separate from the fitted OAI models. It is not a clinical prediction service.
