@@ -14,6 +14,8 @@ Can the mismatch between knee X-ray severity and reported pain help identify whe
 | Retained MAE after deferring the highest 10% of uncertainty scores | 1.582 |
 | Relative MAE reduction in that retained subset | 11.47% |
 
+**Manuscript qualification:** The supplied manuscript reports a post-freeze sensitivity analysis adjusting for baseline pain: discordance coefficient **-0.011 (95% CI -0.043 to 0.022; p = 0.52)**. The unadjusted association did not persist. Baseline symptom burden is the stronger candidate explanation in these data. This manuscript-reported analysis is distinct from the frozen primary result and was not reproduced from this technical ZIP. See [the provenance and interpretation note](docs/manuscript_interpretation_update.md).
+
 These are internally cross-validated results, not external validation or prospective clinical evidence. Deferral changes which cases are evaluated and does not improve predictions for all patients. Discordance quartile means are not monotonically increasing; the coefficient describes the fitted association.
 
 ![Risk versus coverage](results/figures/risk_coverage.svg)
@@ -21,6 +23,8 @@ These are internally cross-validated results, not external validation or prospec
 ## Interactive companion
 
 [**Open the Model Reliability Explorer**](https://ksricharan7.github.io/oai-model-reliability/) — adjust fictional X-ray/pain examples, inspect transparent teaching formulas, and explore the actual frozen coverage–error results. The simulator uses synthetic cases and is separate from the fitted OAI models. It is not a clinical prediction service.
+
+[Scientific poster, one-page brief, and presentation scripts](https://ksricharan7.github.io/oai-model-reliability/#materials) are available on the research companion.
 
 ## Explore the evidence
 

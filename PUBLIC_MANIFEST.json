@@ -34,8 +34,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "359a1aa7fc988e3885650bec12be472d8d3e56ff5473a10261fa18d4e53ae67f",
-      "bytes": 4359
+      "sha256": "78b6cd28420e3d0f104fbce6db86785c6bd2310c44fe9f8fc0af97c2a84062a0",
+      "bytes": 5059
     },
     {
       "path": "analysis/build_knee_cohort.py",
@@ -103,14 +103,19 @@
       "bytes": 1606
     },
     {
+      "path": "docs/manuscript_interpretation_update.md",
+      "sha256": "ed536917829f1c047bfab6dc43016f7319f9b457d57d472b68fa73cd766f9de6",
+      "bytes": 2020
+    },
+    {
       "path": "docs/reproducibility.md",
       "sha256": "c5a75a6b2495fea46aef0639e544256474acc4c003bf2f9a97947eb11b591264",
       "bytes": 2813
     },
     {
       "path": "docs/research_overview.md",
-      "sha256": "1c7b849fdfcefcf4e060659401e782228aa86d74598dcf6dfeb8206bd39bf566",
-      "bytes": 1697
+      "sha256": "10fd09c674eaab567aa6f760564e329b1958318f4528717bb6c2966b9bc20623",
+      "bytes": 2051
     },
     {
       "path": "docs/source_provenance.json",
