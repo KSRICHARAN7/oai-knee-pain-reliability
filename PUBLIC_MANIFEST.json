@@ -34,8 +34,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "98ef7ea53b906be3ee849a3e4ade41dd0f3ec5ee5d948b9781b2e4dd0fb13252",
-      "bytes": 5554
+      "sha256": "32ce9dd5566771a0715eb3f2b2ed95a3a3f8c9059459ce0812087633ebf33cf5",
+      "bytes": 5645
     },
     {
       "path": "analysis/build_knee_cohort.py",
@@ -104,8 +104,8 @@
     },
     {
       "path": "docs/manuscript_interpretation_update.md",
-      "sha256": "ed536917829f1c047bfab6dc43016f7319f9b457d57d472b68fa73cd766f9de6",
-      "bytes": 2020
+      "sha256": "ac48596f31a1ee5b6657c666691e0a5ce209e2a96af40cef87f1bc37f9faa33c",
+      "bytes": 2136
     },
     {
       "path": "docs/reproducibility.md",

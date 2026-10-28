@@ -22,7 +22,7 @@ These are internally cross-validated results, not external validation or prospec
 
 ## Full manuscript
 
-[Read the complete manuscript PDF](manuscript.pdf) — the intact 22-page paper is included directly in this repository. [Open a browser PDF copy](https://ksricharan7.github.io/portfolio/materials/oai-manuscript.pdf?v=20261015-fixed). The manuscript is under review at The Curieux Review; no acceptance is claimed. [Review-status record](https://ksricharan7.github.io/portfolio/materials/research-status.html).
+[Read the complete manuscript PDF](manuscript.pdf) — the intact 22-page paper is included directly in this repository. [Open a browser PDF copy](https://ksricharan7.github.io/portfolio/materials/oai-manuscript.pdf?v=20261015-fixed). The manuscript has been accepted by The Curieux Review and is awaiting publication. The linked PDF is an author-shared manuscript; the journal version is not yet online. [Review-status record](https://ksricharan7.github.io/portfolio/materials/research-status.html).
 
 [Author portfolio](https://ksricharan7.github.io/portfolio/).
 
@@ -69,7 +69,7 @@ The runner rebuilds the cohort, descriptive QC, primary model, an independent re
 
 ## Status and research integrity
 
-The supplied technical package declares an analysis freeze on **September 13, 2026** and contains an internal protocol lock dated July 21, 2026. This repository was prepared on **October 14, 2026**; it is not proof of a contemporaneously registered preregistration. Journal acceptance, a posted preprint, and outside validation are not claimed here; verified publication links can be added later.
+The supplied technical package declares an analysis freeze on **September 13, 2026** and contains an internal protocol lock dated July 21, 2026. This repository was prepared on **October 14, 2026**; it is not proof of a contemporaneously registered preregistration. The manuscript is accepted by The Curieux Review and awaiting publication. A journal publication link will be added when available.
 
 This is a research reproducibility repository, not a patient prediction service or medical advice. There is no deployable, externally validated clinical model in this release. Public packaging preserves the frozen analysis scripts and numerical results. New presentation and orchestration tools are documented separately.
 

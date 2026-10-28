@@ -16,4 +16,4 @@ Source: supplied manuscript, abstract, post-freeze sensitivity results, Table 3,
 
 Source manuscript SHA-256: `ce3fd577b8403c58f1ffcc59cd39239ff5bbabae99b7f2deff8837f657572d1c`.
 
-Public poster, brief, and presentation scripts were prepared with ChatGPT/Codex assistance and are supplementary communication materials, not a revision to the submitted manuscript. No publication acceptance, independent review, presentation, or award is implied.
+Public poster, brief, and presentation scripts were prepared with ChatGPT/Codex assistance and are supplementary communication materials, not a revision to the submitted manuscript. The manuscript has been accepted by The Curieux Review and is awaiting publication; the journal version is not yet online. The supplementary materials do not record an actual presentation or award.
